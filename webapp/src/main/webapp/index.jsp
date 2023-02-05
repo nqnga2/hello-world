@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-Deploy with Docker & Ansible
+<h1> Demo Simple Devops !!! </h1>
+<h1> Deploy with Docker & Ansible </h1>
